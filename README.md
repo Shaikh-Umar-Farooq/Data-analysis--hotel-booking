@@ -33,30 +33,53 @@ The analysis of hotel booking cancellations as well as other factors that have n
 ## Analysis and Findings
 
 ### Cancellation Rates
-The accompanying bar graph shows the percentage of the reservations that are cancelled and those that are not. It is obvious that there are still a significant number of reservations that have not been cancelled. There are still 37% of the clients who cancelled their reservation, which has a significant impact on the hotel’s earnings.
 
 ![Cancellation Rates](images/cancellation.png)
 
+The accompanying bar graph shows the percentage of the reservations that are cancelled and those that are not. It is obvious that there are still a significant number of reservations that have not been cancelled. There are still 37% of the clients who cancelled their reservation, which has a significant impact on the hotel’s earnings.
+
+
 ### Booking Comparison
+
+![Booking Comparison](images/booking_comparison.png)
+
 In comparison to resort hotels, city hotels have more bookings. It’s possible that resort hotels are more expensive than those in cities.
 
+
 ### Average Daily Rate
+
+![Average Daily Rate](images/average_daily_rate.png)
+
 The line graph above shows that, on certain days, the average daily rate for the city hotel is less than that of a resort hotel, and on other days, it is even less. It goes without saying that weekends and holidays may see a rise in resort hotel rates.
+
 
 ### Monthly Reservation Levels
 We have developed a grouped bar graph to analyze the months with the highest and lowest reservation levels according to reservation status. As can be seen, the number of confirmed reservations is largest and the number of cancelled reservations is smallest in the month of August, whereas January is the month where most cancellations take place.
 
+![Monthly Reservation Levels](images/monthly_reservation_levels.png)
+
+
 ### Price Impact on Cancellations
+
+![Price Impact on Cancellations](images/price_impact_cancellations.png)
+
 This bar graph demonstrates that cancellations are most common when prices are greater and are least common when prices are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellations.
+
 
 ### Country-wise Cancellations
 Portugal has the highest number of cancellations.
+
+![Country-wise Cancellations](images/country_wise_cancellations.png)
 
 ### Booking Channels
 Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4% of the clients book hotels directly by visiting them and making reservations.
 
 ### Average Daily Rate and Cancellations
+
+![Average Daily Rate and Cancellations](images/avg_daily_rate_cancellations.png)
+
 As seen in the graph, reservations are cancelled when the average daily rate is higher than when it is not cancelled. This clearly proves all the above analyses, that higher prices lead to higher cancellations.
+
 
 ## Suggestions
 1. **Price Strategy**: Cancellation rates rise as the price does. To prevent cancellations, hotels could work on their price strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the customers.

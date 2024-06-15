@@ -90,4 +90,3 @@ As seen in the graph, reservations are cancelled when the average daily rate is 
 
 ---
 
-Feel free to copy and paste this Markdown content to create a beautiful README for your GitHub repository.
